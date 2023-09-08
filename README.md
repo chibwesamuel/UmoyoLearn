@@ -1,6 +1,6 @@
 # UmoyoLearn: An Online Learning Platform
 
-![UmoyoLearn Logo](UmoyoLearn.png)
+![UmoyoLearn Logo](UmoyoLearn Logo.png)
 
 UmoyoLearn is an online learning platform that empowers users to explore a world of knowledge at their fingertips. Whether you're a student, educator, or lifelong learner, UmoyoLearn offers a wide range of courses and resources to enhance your skills and broaden your horizons.
 
